@@ -1,8 +1,8 @@
-# 👋 Olá, sou Leonardo Cabral
+# 👋 Olá, sou Leonardo Cabral!
 
-Sou profissional de Desenvolvimento e Qualidade de Software, com background em automação de processos (RPA) e experiência em testes de software, automação de testes, APIs REST e CI/CD. Moro em Niterói/RJ.
+Profissional de Desenvolvimento e Qualidade de Software, com background em automação de processos (RPA) e experiência em testes de software, automação de testes, APIs REST e CI/CD. Moro em Niterói/RJ.
 
-Minha trajetória começou com automação e desenvolvimento no ERP Protheus (TOTVS), trabalhando com ADVPL, Power Automate e TOTVS TIR, incluindo automação de rotinas com Python + Selenium e validação de soluções em processos de negócio como faturamento e logística.
+Minha trajetória começou com automação e desenvolvimento no ERP Protheus (TOTVS), trabalhando com desenvolvimento ADVPL, Power Automate na parte de RPA e TOTVS TIR (ferramenta de automação de testes da TOTVS baseado em Selenium) e validação de soluções em processos de negócio nas áreas de Faturamento, Logística e Compras/Suprimentos.
 
 Ao longo dessa experiência, passei a atuar cada vez mais próximo da qualidade de software, trabalhando com testes funcionais, regressão, exploratórios, testes de API, homologação e validação de integrações.
 
